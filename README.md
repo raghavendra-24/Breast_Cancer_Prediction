@@ -36,11 +36,13 @@ breast-cancer-pytorch/
 torch
 scikit-learn
 numpy
+```
 
 ## Install with:
 
 ```bash
 pip install torch scikit-learn numpy
+```
 
 ## 🧪 How to Run the Project
 ```bash
@@ -50,6 +52,7 @@ cd breast-cancer-pytorch
 
 # 2. Run the script
 python breast_cancer_model.py
+```
 
 ## 🧠 Model Architecture
 Input: 30 features (from dataset)
