@@ -30,6 +30,7 @@ breast-cancer-pytorch/
 ├── breast_cancer_model.py   # Contains full model code
 ├── requirements.txt         # Python dependencies
 └── README.md                # Project overview
+```
 
 ## 📦 Requirements
 ```bash
